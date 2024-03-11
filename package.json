@@ -5,6 +5,14 @@
   "license": "MIT",
   "private": false,
   "author": "hyunseo <gustjg5@naver.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vespucci95/hyunseo-ui.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Vespucci95/hyunseo-ui/issues"
+  },
   "devDependencies": {
     "@types/node": "^20.11.25",
     "@types/react": "^18.2.64",

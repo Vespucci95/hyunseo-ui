@@ -1,3 +1,5 @@
+import './Button.module.scss'
+
 import React, { ButtonHTMLAttributes, forwardRef, PropsWithChildren } from 'react';
 
 type Props = ButtonHTMLAttributes<HTMLButtonElement>;
@@ -12,4 +14,4 @@ const Button = forwardRef<HTMLButtonElement, PropsWithChildren<Props>>(({ childr
 
 Button.displayName = 'Button';
 
-export default Button;
+export default Button

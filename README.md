@@ -1,5 +1,5 @@
 # hyunseo-ui
 
-```text
-yarn: ">=1.22.18"
-```
+package manager: yarn berry
+
+skill: react, typescript, jest

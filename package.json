@@ -2,7 +2,7 @@
   "name": "hyunseo-ui",
   "version": "0.0.3",
   "description": "react component",
-  "main": "index.js",
+  "main": "lib/index.ts",
   "repository": "https://github.com/Vespucci95/hyunseo-ui.git",
   "author": "Vespucci95 <donglonk@naver.com>",
   "license": "MIT",

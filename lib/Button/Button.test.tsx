@@ -1,5 +1,6 @@
-import { render, screen } from '@testing-library/react';
+import * as React from 'react';
 import { Button } from '../index';
+import { render, screen } from '@testing-library/react';
 
 describe('<Button>', () => {
   it('renders component', () => {

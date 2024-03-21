@@ -1,4 +1,5 @@
-import React, { ButtonHTMLAttributes, forwardRef, PropsWithChildren } from 'react';
+import * as React from 'react';
+import { ButtonHTMLAttributes, forwardRef, PropsWithChildren } from 'react';
 
 const Button = forwardRef<HTMLButtonElement, PropsWithChildren<ButtonHTMLAttributes<HTMLButtonElement>>>(
 	({ children, ...rest }, ref) => {

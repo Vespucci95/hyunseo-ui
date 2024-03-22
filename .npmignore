@@ -11,3 +11,4 @@ jest.setup.js
 rollup.config.mjs
 rollup-playground.tsx
 tsconfig.json
+.idea

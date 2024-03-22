@@ -16,11 +16,18 @@
     "strict": true,
     "noUnusedParameters": true,
     "skipLibCheck": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "rootDir": "lib",
+    "lib": ["dom", "es2017"]
   },
   "include": [
     "**/*.ts",
     "**/*.tsx",
     "./jest.setup.js"
+  ],
+  "exclude": [
+    "dist/.yarn",
+    "**/*.test.ts",
+    "**/*.test.tsx"
   ]
 }

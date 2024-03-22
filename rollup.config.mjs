@@ -5,15 +5,8 @@ import { nodeResolve } from "@rollup/plugin-node-resolve";
 import terser from '@rollup/plugin-terser';
 
 const config = {
-  external: [/.yarn/],
   input: 'lib/index.ts',
   output: [
-    // {
-    //   dir: './dist',
-    //   format: 'es',
-    //   preserveModules: true,
-    //   preserveModulesRoot: 'lib',
-    // },
     {
       file: './dist/index.js',
       format: 'cjs',

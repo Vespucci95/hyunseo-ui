@@ -12,3 +12,6 @@ rollup.config.mjs
 rollup-playground.tsx
 tsconfig.json
 .idea
+.storybook
+stories
+.prettierrc

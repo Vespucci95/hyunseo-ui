@@ -32,6 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/preset-env", "virtual:d9031b785b164e38349afe1a3bd3a30ebfca3f9732fcca544ccc921002b854220132c70c026ee4cd5dd213103d5af38cbd2efef4d3db77cae6f082461930f4ca#npm:7.24.3"],\
           ["@babel/preset-react", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:7.24.1"],\
           ["@babel/preset-typescript", "virtual:0ec4b21ca2d9d09e646574c04572319e2deac4a4e35953d1b86ebf7be4caf525b7bc9121b76a1e20eb5f2df41dbeea0c211678de22ed6d4bc51d4d7c1b5e046a#npm:7.24.1"],\
+          ["@babel/runtime", "npm:7.24.1"],\
           ["@chromatic-com/storybook", "npm:1.2.25"],\
           ["@rollup/plugin-babel", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:6.0.4"],\
           ["@rollup/plugin-node-resolve", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:15.2.3"],\
@@ -11195,6 +11196,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/preset-env", "virtual:d9031b785b164e38349afe1a3bd3a30ebfca3f9732fcca544ccc921002b854220132c70c026ee4cd5dd213103d5af38cbd2efef4d3db77cae6f082461930f4ca#npm:7.24.3"],\
           ["@babel/preset-react", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:7.24.1"],\
           ["@babel/preset-typescript", "virtual:0ec4b21ca2d9d09e646574c04572319e2deac4a4e35953d1b86ebf7be4caf525b7bc9121b76a1e20eb5f2df41dbeea0c211678de22ed6d4bc51d4d7c1b5e046a#npm:7.24.1"],\
+          ["@babel/runtime", "npm:7.24.1"],\
           ["@chromatic-com/storybook", "npm:1.2.25"],\
           ["@rollup/plugin-babel", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:6.0.4"],\
           ["@rollup/plugin-node-resolve", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:15.2.3"],\

@@ -1,6 +1,6 @@
 {
   "name": "hyunseo-ui",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "react component",
   "main": "./dist/index.js",
   "module": "./dist/index.es.js",
@@ -27,6 +27,7 @@
     "@babel/preset-env": "^7.24.3",
     "@babel/preset-react": "^7.24.1",
     "@babel/preset-typescript": "^7.24.1",
+    "@babel/runtime": "^7.24.1",
     "@chromatic-com/storybook": "^1.2.25",
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-node-resolve": "^15.2.3",

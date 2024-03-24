@@ -1,7 +1,7 @@
 import React, { PropsWithChildren } from 'react';
 
 export type FlexProps = {
-  fill?: boolean;
+  gap?: string;
 };
 
 export const Flex = ({ children }: PropsWithChildren<FlexProps>) => {

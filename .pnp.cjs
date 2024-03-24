@@ -60,6 +60,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:7.3.1"],\
           ["babel-jest", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:29.7.0"],\
           ["babel-plugin-transform-scss", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:1.2.0"],\
+          ["classnames", "npm:2.5.1"],\
           ["css-loader", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:6.10.0"],\
           ["eslint", "npm:8.57.0"],\
           ["eslint-config-prettier", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:9.1.0"],\
@@ -8310,6 +8311,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["classnames", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "../../../../.yarn/berry/cache/classnames-npm-2.5.1-c7273f3423-10c0.zip/node_modules/classnames/",\
+        "packageDependencies": [\
+          ["classnames", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["clean-css", [\
       ["npm:5.3.3", {\
         "packageLocation": "../../../../.yarn/berry/cache/clean-css-npm-5.3.3-d2bb553a94-10c0.zip/node_modules/clean-css/",\
@@ -11213,6 +11223,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:7.3.1"],\
           ["babel-jest", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:29.7.0"],\
           ["babel-plugin-transform-scss", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:1.2.0"],\
+          ["classnames", "npm:2.5.1"],\
           ["css-loader", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:6.10.0"],\
           ["eslint", "npm:8.57.0"],\
           ["eslint-config-prettier", "virtual:473dd60d980c500d563537f488fc4c93bbc089975641b9fbb95030366ed155bd0f3002981c56cf47cb4882fda2554fe3d4ce3a4379c247623ef1930e9a07b2eb#npm:9.1.0"],\

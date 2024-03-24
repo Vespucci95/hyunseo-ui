@@ -15,4 +15,3 @@ tsconfig.json
 .storybook
 stories
 .prettierrc
-*.stories.d.ts

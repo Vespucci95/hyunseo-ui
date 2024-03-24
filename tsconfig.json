@@ -23,7 +23,8 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
-    "./jest.setup.js"
+    "./jest.setup.js",
+    "lib/global.d.ts"
   ],
   "exclude": [
     "dist/.yarn",
